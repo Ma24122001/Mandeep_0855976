@@ -1,0 +1,33 @@
+*{
+	padding:0;
+	margin;0;
+}
+	
+	nav{
+		background-color: blue;
+		padding :10px;
+	}
+	
+.nav {
+	background-color: pink;
+	color: white;
+}
+
+#header{
+	background-color: yellow;
+	height: 320px;
+}
+
+#Blog{
+	background-color: green;
+	height: 600px;
+}
+#About{
+	background-color: lightgrey;
+	height: 200px;
+}
+
+#Contact{
+	background-color: lightbrown;
+	height: 400px;
+}
